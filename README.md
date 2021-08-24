@@ -9,4 +9,4 @@ This is a website which is used to share secrets anonymously. Feel free to share
 
 **All the passwords are secured using hashing techniques and we use cookies to make this site's experience better.** 😄 
 
-https://boiling-sierra-44887.herokuapp.com
+ To view this website I made, [Click here](https://boiling-sierra-44887.herokuapp.com).
